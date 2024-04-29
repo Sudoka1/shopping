@@ -1,4 +1,3 @@
-// Примеры скриптов для добавления товаров в корзину и обработки заказов
 const products = document.querySelectorAll('.product');
 const cart = document.querySelector('.cart ul');
 const checkoutButton = document.querySelector('.cart button');
