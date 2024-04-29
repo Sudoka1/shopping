@@ -14,6 +14,6 @@ products.forEach(product => {
 });
 
 checkoutButton.addEventListener('click', () => {
-    alert('Ваш заказ оформлен!');
+    alert('Ihre Bestellung wurde abgeschlossen!');
     cart.innerHTML = '';
 });
